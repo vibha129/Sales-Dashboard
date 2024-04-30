@@ -16,7 +16,7 @@ at localhost:3000 app will start working.
 
 a. React-TypeScript .\
 b.Redux-toolkits-TypeScript (Global state management).\
-
+c.Recharts.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
