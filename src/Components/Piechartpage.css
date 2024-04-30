@@ -1,0 +1,23 @@
+.selection_box{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+ 
+}
+.dashboard_box{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 1rem;
+  
+    margin: 0 auto;
+}
+.empty-box{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    padding: 9rem;
+}
+.option-box{
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: 1fr 1fr;
+}

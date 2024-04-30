@@ -1,0 +1,44 @@
+.graph_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:0.3rem;
+}
+.total_box{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.sum_title{
+    background:#8884d8 ;
+    padding: 1rem;
+    width: 13rem;
+    border: none;
+    border-radius: 5px;
+    margin-left: 4.5rem;
+}
+.spend_sum_title{
+    background: #82ca9d;
+    padding: 1rem;
+    width: 13rem;
+    border: none;
+    border-radius: 5px;
+    margin-left: 4.5rem;
+   
+}
+.impact_sum_title{
+    background: #ff7f0e;
+    padding: 1rem;
+    width: 13rem;
+    border: none;
+    border-radius: 5px;
+    margin-left: 4.5rem;
+   
+}
+.roi_sum_title{
+    background: #ff0000;
+    padding: 1rem;
+    width: 13rem;
+    border: none;
+    border-radius: 5px;
+    margin-left: 4.5rem;
+   
+}

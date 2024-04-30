@@ -1,0 +1,16 @@
+.Header_container{
+    
+    padding-bottom: 1rem;
+    
+    width: 100%;
+    border: none;
+    
+    box-shadow: -6px -1px 2px #282c34;}
+    .tag_section{
+        display: flex;
+    justify-content: flex-end;
+    /* width: 100%; */
+    gap: 2rem;
+    /* margin: 0 auto; */
+    margin-right: 2rem;
+    }
