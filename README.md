@@ -2,11 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Get started with project
 
-In the project directory, you can run:
+Clone this github repo to the local - git clone https://github.com/vibha129/sales-dashboard.git \
+run the command -npm install .\
+run the command -npm start.
 
-### `npm start`
+
+at localhost:3000 app will start working.
+
+## Project Details (tech-stack)
+
+
+a. React-TypeScript .\
+b.Redux-toolkits-TypeScript (Global state management).\
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
